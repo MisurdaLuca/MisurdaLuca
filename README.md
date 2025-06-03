@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a full-time Computer Engineering student at the University of Óbuda, specializing in Artificial Intelligence.<br><br>🧠 Alongside my studies, I worked part-time as an IT teacher for nearly two years, helping others build strong foundations in technology.<br><br>🎧 Currently, I dedicate most of my time to a music genre classification project, where I combine audio signal processing and machine learning to explore intelligent audio understanding.<br><br>💡 I’m always looking for opportunities to apply my theoretical knowledge in real-world scenarios, and I’m especially passionate about projects that merge AI with creative domains.
+🎓 I’m a full-time **Computer Engineering student** at the **University of Óbuda**, specializing in **Artificial Intelligence**.<br><br>🧠 Alongside my studies, I worked part-time as an **IT teacher** for nearly two years, helping others build strong foundations in technology.<br><br>🎧 Currently, I dedicate most of my time to a **music genre classification project**, where I combine audio signal processing and machine learning to explore intelligent audio understanding.<br><br>💡 I’m always looking for opportunities to apply my theoretical knowledge in real-world scenarios, and I’m especially passionate about projects that merge AI with creative domains.
 
 
 ## 🌐 Socials:
