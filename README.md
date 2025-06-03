@@ -1,8 +1,6 @@
 # Hello World! 👋😊✨
-## 💫 About Me:
+## 💫 [About Me](https://misurdaluca.my.canva.site/)
 🎓 I’m a full-time **Computer Engineering student** at the **University of Óbuda**, specializing in **Artificial Intelligence**.<br><br>🧠 Alongside my studies, I worked part-time as an **IT teacher** for nearly two years, helping others build strong foundations in technology.<br><br>🎧 Currently, I dedicate most of my time to a **music genre classification project**, where I combine audio signal processing and machine learning to explore intelligent audio understanding.<br><br>💡 I’m always looking for opportunities to apply my theoretical knowledge in real-world scenarios, and I’m especially passionate about projects that merge AI with creative domains.
-
-[More About Me](https://misurdaluca.my.canva.site/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luca.misurda.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misurdaluca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-misurda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:misurda.luca@gmail.com) 
