@@ -1,19 +1,21 @@
-# 👋 Hi, I'm Luca Misurda!
-
-<p align="left">
-  <img src="https://aml.nik.uni-obuda.hu/themes/aml/assets/images/oe_nik_modern.png" style="width:1800px; height:190px; min-width:600px; min-height:100px; max-width:400px; max-height:64px;" />
+<p align="right">
+  <img src="https://aml.nik.uni-obuda.hu/themes/aml/assets/images/oe_nik_modern.png" width="120" height="24" />
 </p>
 
----
+# 👋 Hi, I'm Luca Misurda!
+
+
 ## 🚀 About Me
 
-🎓 **Computer Engineering BSc** student at [Óbuda University](https://uni-obuda.hu/), specializing in **Artificial Intelligence**.  
+🎓 **Computer Engineering BSc** student at [![Óbuda University](https://img.shields.io/badge/Óbuda_University-0078D7?style=flat-square&logo=university&logoColor=white)](https://uni-obuda.hu/) **in Hungary**, specializing in **Artificial Intelligence**.  
 🧑‍🏫 Former **IT teacher** (2 years) — passionate about making tech accessible and fun.  
 🎵 Currently exploring **music genre classification** with audio signal processing & machine learning.  
 💡 Always seeking to bridge theory and practice, especially where AI meets creativity and real-world impact.
 
+
+
 📚 **In my free time**, I enjoy reading comics, playing video games, and hiking.  
-🎥 I also run **anonymously a  YouTube channel** where I promote IT among young people.
+🎥 I also run **anonymously a YouTube channel** where I promote IT among young people.
 
 ---
 
@@ -110,11 +112,19 @@
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisurdaLuca&layout=compact&theme=neon&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisurdaLuca&show_icons=true&theme=neon&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=MisurdaLuca&theme=neon&hide_border=true)
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MisurdaLuca&show_icons=true&theme=neon&hide_border=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=MisurdaLuca&theme=neon&hide_border=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisurdaLuca&layout=compact&theme=neon&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ## 💰 Special thanks for supporting me!
 
@@ -124,5 +134,3 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/misurdaluca)
 
 ---
-
-<!-- Profile README generated with ❤️ by GitHub Copilot and inspired by GPRM (https://gprm.itsvg.in)
