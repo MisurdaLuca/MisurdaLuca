@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://aml.nik.uni-obuda.hu/themes/aml/assets/images/oe_nik_modern.png" width="120" height="24" />
+  <img src="https://aml.nik.uni-obuda.hu/themes/aml/assets/images/oe_nik_modern.png" width="200" height="50" />
 </p>
 
 # 👋 Hi, I'm Luca Misurda!
