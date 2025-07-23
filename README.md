@@ -1,31 +1,128 @@
-# Hello World! 👋😊✨
-## 💫 [About Me](https://misurdaluca.my.canva.site/)
-🎓 I’m a full-time **Computer Engineering student** at the **University of Óbuda**, specializing in **Artificial Intelligence**.<br><br>🧠 Alongside my studies, I worked part-time as an **IT teacher** for nearly two years, helping others build strong foundations in technology.<br><br>🎧 Currently, I dedicate most of my time to a **music genre classification project**, where I combine audio signal processing and machine learning to explore intelligent audio understanding.<br><br>💡 I’m always looking for opportunities to apply my theoretical knowledge in real-world scenarios, and I’m especially passionate about projects that merge AI with creative domains.
+# 👋 Hi, I'm Luca Misurda!
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luca.misurda.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misurdaluca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-misurda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:misurda.luca@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=plastic&logo=tampermonkey&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MisurdaLuca&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MisurdaLuca&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MisurdaLuca&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MisurdaLuca&theme=neon&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MisurdaLuca&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<p align="left">
+  <img src="https://aml.nik.uni-obuda.hu/themes/aml/assets/images/oe_nik_modern.png" style="width:1800px; height:190px; min-width:600px; min-height:100px; max-width:400px; max-height:64px;" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MisurdaLuca&icon=7&color=10)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/misurdaluca) 
+🎓 **Computer Engineering BSc** student at [Óbuda University](https://uni-obuda.hu/), specializing in **Artificial Intelligence**.  
+🧑‍🏫 Former **IT teacher** (2 years) — passionate about making tech accessible and fun.  
+🎵 Currently exploring **music genre classification** with audio signal processing & machine learning.  
+💡 Always seeking to bridge theory and practice, especially where AI meets creativity and real-world impact.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📚 **In my free time**, I enjoy reading comics, playing video games, and hiking.  
+🎥 I also run **anonymously a  YouTube channel** where I promote IT among young people.
+
+---
+
+## 🌐 Contact with Me!
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luca.misurda.5)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/misurdaluca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-misurda)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:misurda.luca@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C4CC?logo=canva&logoColor=white)](https://misurdaluca.my.canva.site/)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white)
+
+
+**AI, Data & ML:**  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EF6C00?style=flat&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat&logo=lightgbm&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logo=catboost&logoColor=black)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
+![Optuna](https://img.shields.io/badge/Optuna-13B0A7?style=flat&logo=optuna&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=wandb&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Albumentations](https://img.shields.io/badge/Albumentations-FF4957?style=flat&logo=albumentations&logoColor=white)
+![TQDM](https://img.shields.io/badge/tqdm-FFD700?style=flat&logo=python&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-306998?style=flat&logo=pillow&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-0081A7?style=flat)
+![Pickle](https://img.shields.io/badge/Pickle-4B8BBE?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+
+**DevOps & Tools:**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+
+
+**Other:**  
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat&logo=gitkraken&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
+
+## 🎮 Gaming Platforms
+
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
+![EA](https://img.shields.io/badge/EA-000000?style=flat&logo=ea&logoColor=white)
+![Dolphin](https://img.shields.io/badge/Dolphin-48B9C7?style=flat&logo=dolphin-emu&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisurdaLuca&layout=compact&theme=neon&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisurdaLuca&show_icons=true&theme=neon&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MisurdaLuca&theme=neon&hide_border=true)
+
+
+
+## 💰 Special thanks for supporting me!
+
+> "There was no choice but to be pioneers; no time to be beginners."  
+> <sub>— Margaret Hamilton</sub>
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/misurdaluca)
+
+---
+
+<!-- Profile README generated with ❤️ by GitHub Copilot and inspired by GPRM (https://gprm.itsvg.in)
