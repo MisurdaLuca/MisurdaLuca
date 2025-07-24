@@ -130,7 +130,8 @@
 
 > "There was no choice but to be pioneers; no time to be beginners."  
 > <sub>— Margaret Hamilton</sub>
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/fluffybunnyhopp)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/misurdaluca)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white&label=PayPal)](https://paypal.me/paypal.me/misurdaluca)
+&nbsp;&nbsp;
+[![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-%23FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&label=Support)](https://buymeacoffee.com/fluffybunnyhopp)
 
 ---
