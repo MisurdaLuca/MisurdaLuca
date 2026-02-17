@@ -4,7 +4,8 @@
 
 </p>
 
-<h1 align="center">👋 Hi, I'm Luca Misurda!</h1>
+# 👋 Hi, I'm Luca Misurda!
+
 
 <p align="center">
   <a href="https://linkedin.com/in/luca-misurda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
