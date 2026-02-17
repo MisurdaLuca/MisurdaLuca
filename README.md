@@ -9,7 +9,7 @@
 
 🎓 **Computer Engineering BSc** student at [![Óbuda University](https://img.shields.io/badge/Óbuda_University-0078D7?style=flat-square&logo=university&logoColor=white)](https://uni-obuda.hu/) **in Hungary**, specializing in **Artificial Intelligence**.  
 🧑‍🏫 Former **IT teacher** (2 years) — passionate about making tech accessible and fun.
-💼 Working by **Vantage Towers** as an **IT Developer Technician Trainee**.
+💼 Working by **Vantage Towers** as an **IT Developer Technician Trainee**. <br>
 🎓 Currently creating an **Analytical Study on the Construction and Evaluation of RAG Systems**.  
 💡 Always seeking to bridge theory and practice, especially where AI meets creativity and real-world impact.
 
