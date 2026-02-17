@@ -59,10 +59,14 @@
 
 
 #### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-%23032D42.svg?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HPE%20OneView-%2301a982.svg?style=for-the-badge&logo=hpe&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
 
 ### 📈 GitHub Stats
@@ -76,11 +80,18 @@
 </p>
 
 
-### 🎮 Gaming & Creativity
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva)
+#### 🎮 Gaming & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlayStation-%23003791.svg?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nintendo-%23E60012.svg?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epic-games&logoColor=white" />
+  <img src="https://img.shields.io/badge/EA-000000?style=for-the-badge&logo=ea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubisoft-%23000000.svg?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rockstar_Games-%23EF1111.svg?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
 
 
 ### 💰 Support Me
