@@ -7,11 +7,8 @@
 
 # 👋 Hi, I'm FluffyBunny!
 
-
 <p align="left">
-  <a href="https://linkedin.com/in/luca-misurda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://misurdaluca.my.canva.site/"><img src="https://img.shields.io/badge/Portfolio-00C4CC?logo=canva&logoColor=white" /></a>
-  <a href="mailto:misurda.luca@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:blackcat4844@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
