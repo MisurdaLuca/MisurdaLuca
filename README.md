@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
 
   <img src="https://aml.nik.uni-obuda.hu/themes/aml/assets/images/oe_nik_modern.png" width="300" height="100" />
 
@@ -53,12 +53,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MisurdaLuca&show_icons=true&theme=neon&hide_border=true" alt="Luca's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisurdaLuca&layout=compact&theme=neon&hide_border=true" alt="Luca's Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisurdaLuca&theme=neon&hide_border=true" alt="Luca's Streak Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MisurdaLuca&show_icons=true&theme=neon&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisurdaLuca&layout=compact&theme=neon&hide_border=true" height="180"/>
 </p>
 ---
 
@@ -68,7 +64,6 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva)
 
----
 
 ### 💰 Support Me
 
