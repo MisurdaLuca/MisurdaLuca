@@ -49,7 +49,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
----
 
 ### 📈 GitHub Stats
 <p align="center">
@@ -60,7 +59,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisurdaLuca&theme=neon&hide_border=true" alt="Luca's Streak Stats" height="180" />
 </p>
----
+
 
 ### 🎮 Gaming & Creativity
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam)
