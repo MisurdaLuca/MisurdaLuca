@@ -1,5 +1,6 @@
 <p align="left">
 
+
   <img src="https://aml.nik.uni-obuda.hu/themes/aml/assets/images/oe_nik_modern.png" width="300" height="100" />
 
 </p>
