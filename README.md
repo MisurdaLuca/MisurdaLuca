@@ -19,8 +19,6 @@
 * 💼 **IT Developer Technician Trainee** at **Vantage Towers**.
 * 🧑‍🏫 Former **IT teacher** (2 years) — I love making tech accessible for everyone.
 * 🧪 Currently researching: **Analytical Study on the Construction and Evaluation of RAG Systems**.
-* 🎥 I run an anonymous YouTube channel promoting IT careers among the youth.
-
 ---
 
 ### 💻 Tech Stack
