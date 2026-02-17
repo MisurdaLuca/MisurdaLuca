@@ -41,7 +41,16 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Local_LLM](https://img.shields.io/badge/Local--LLM-FF6F00?style=flat&logo=ai&logoColor=white)
+![Model_Quantization](https://img.shields.io/badge/Model--Quantization-4B8BBE?style=flat&logo=python&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=wandb&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121011?style=flat&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-755139?style=flat&logo=anthropic&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_AI-000000?style=flat)
+
 
 #### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
