@@ -5,7 +5,7 @@
 
 </p>
 
-# 👋 Hi, I'm Momo!
+# 👋 Hi, I'm Momo the bunny!
 
 <p align="left">
   <a href="mailto:blackcat4844@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
