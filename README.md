@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 * 🎓 **Computer Engineering BSc** student at Óbuda University, specializing in **Artificial Intelligence**.
-* 💼 **IT Developer Technician Trainee** at **Vantage Towers**.
+* 💼 **IT Developer Technician Trainee** at a large European multinational company.
 * 🧑‍🏫 Former **IT teacher** (2 years) — I love making tech accessible for everyone.
 * 🧪 Currently researching: **Analytical Study on the Construction and Evaluation of RAG Systems**.
 ---
