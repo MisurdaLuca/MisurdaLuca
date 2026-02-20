@@ -82,7 +82,7 @@
 ---
 
 ### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=momothebunny&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=momothebunny&theme=dark)
 
 ---
 
