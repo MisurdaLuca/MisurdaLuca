@@ -82,8 +82,7 @@
 ---
 
 ### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=momothebunny&theme=dark)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=momothebunny&theme=dark-mono&bg_color=0D1117&color=fe428e&line=fe428e&point=ffdd54)
 ---
 
 ### 🎮 Gaming & Platforms
