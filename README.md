@@ -82,28 +82,43 @@
   <img src="https://img.shields.io/badge/Lambda_Labs-FF3E00?style=for-the-badge&logo=lambda&logoColor=white" />
 </p>
 
+# 🐰 momothebunny's Neo-Tech Hub
 
-### 📊 GitHub Stats
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=momothebunny&label=Profile%20views&color=fe428e&style=flat" alt="Views" />
+</p>
+
+---
+
+### 🛠️ My Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode,docker,figma&theme=dark" />
+  </a>
+</p>
+
+---
 
 ### 📊 GitHub Activity
+
 | **General Stats** | **Most Used Languages** |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=tokyonight&count_private=true) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=tokyonight) |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=radical&count_private=true) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=radical) |
 
 | **Contribution Streak** | **Profile Summary** |
 | :--- | :--- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=tokyonight) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=tokyonight) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=radical) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=radical) |
 
 ---
 
 ### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=momothebunny&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=momothebunny&theme=radical)
 
 ---
 
 <p align="left">
   <a href="https://github.com/momothebunny">
-    <img src="https://img.shields.io/badge/Follow%20Me-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow%20Me-fe428e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
