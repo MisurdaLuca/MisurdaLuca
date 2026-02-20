@@ -84,8 +84,7 @@
 
 
 ### 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=momothebunny)](https://github.com/anuraghazra/github-readme-stats)]
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=momothebunny&show_icons=true&theme=tokyonight)
 
 #### 🎮 Gaming & Platforms
 <p align="left">
