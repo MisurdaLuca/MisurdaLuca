@@ -87,11 +87,11 @@
 
 ![Momo Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=radical&count_private=true)
 
-![Momo Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=tokyonight)
+![Momo Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=radical)
 
-![Momo Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=tokyonight)
+![Momo Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=radical)
 
-![Momo Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=tokyonight)
+![Momo Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=radical)
 
 
 #### 🎮 Gaming & Platforms
