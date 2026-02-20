@@ -85,11 +85,27 @@
 
 ### 📊 GitHub Stats
 
-![Momo Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=radical&count_private=true) ![Momo Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=radical)
+### 📊 GitHub Activity
+| **General Stats** | **Most Used Languages** |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=tokyonight&count_private=true) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=tokyonight) |
 
-![Momo Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=radical)
+| **Contribution Streak** | **Profile Summary** |
+| :--- | :--- |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=tokyonight) | ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=tokyonight) |
 
-![Momo Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=radical)
+---
+
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=momothebunny&theme=tokyo-night)
+
+---
+
+<p align="left">
+  <a href="https://github.com/momothebunny">
+    <img src="https://img.shields.io/badge/Follow%20Me-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 #### 🎮 Gaming & Platforms
