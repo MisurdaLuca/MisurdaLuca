@@ -83,23 +83,16 @@
 </p>
 
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=algolia&count_private=true" alt="Momo Stats" />
-</p>
+![Momo Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=algolia&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=algolia" alt="Momo Languages" />
-</p>
+![Momo Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=algolia)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=algolia" alt="Momo Streak" />
-</p>
+![Momo Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=algolia)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=algolia" alt="Momo Profile Details" />
-</p>
+![Momo Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=algolia)
+
 
 #### 🎮 Gaming & Platforms
 <p align="left">
