@@ -85,9 +85,7 @@
 
 ### 📊 GitHub Stats
 
-![Momo Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=radical&count_private=true)
-
-![Momo Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=radical)
+![Momo Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=radical&count_private=true) ![Momo Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=radical)
 
 ![Momo Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=radical)
 
