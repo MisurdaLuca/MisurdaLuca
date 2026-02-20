@@ -85,7 +85,7 @@
 
 ### 📈 GitHub Stats
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=momothebunny&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=algolia)
 
 #### 🎮 Gaming & Platforms
 <p align="left">
