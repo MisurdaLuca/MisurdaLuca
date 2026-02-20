@@ -85,13 +85,13 @@
 
 ### 📊 GitHub Stats
 
-![Momo Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=algolia&count_private=true)
+![Momo Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=momothebunny&show_icons=true&theme=tokoyonight&count_private=true)
 
-![Momo Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=algolia)
+![Momo Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momothebunny&layout=compact&theme=tokoyonight)
 
 ![Momo Streak](https://github-readme-streak-stats.herokuapp.com/?user=momothebunny&theme=algolia)
 
-![Momo Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=algolia)
+![Momo Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momothebunny&theme=tokoyonight)
 
 
 #### 🎮 Gaming & Platforms
